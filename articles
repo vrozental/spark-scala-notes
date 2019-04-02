@@ -71,3 +71,44 @@ https://towardsdatascience.com/4-months-of-machine-deep-learning-89f6ab56a2fd
 24. [General] Five-step Strategy for Student Success with Online Learning
 https://onlinelearninginsights.wordpress.com/2012/09/28/five-step-strategy-for-student-success-with-online-learning/
 
+25. [Spark] The Internals of Apache Spark
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
+
+26. [Spark] Databricks Spark Knowledge Base
+https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/index.html
+
+27. [Spark] Is there an effective partitioning method when using reduceByKey in Spark?
+https://stackoverflow.com/questions/43027306/is-there-an-effective-partitioning-method-when-using-reducebykey-in-spark
+
+28. [Spark] Improving Spark Performance With Partitioning
+https://dev.sortable.com/spark-repartition/
+
+29. [Scala] How to properly and simply profile a function in scala?
+https://stackoverflow.com/questions/22997490/how-to-properly-and-simply-profile-a-function-in-scala
+
+30. [Spark] Hardware Provisioning
+https://spark.apache.org/docs/latest/hardware-provisioning.html
+
+31. [Spark] Distribution of Executors, Cores and Memory for a Spark Application running in Yarn:
+https://spoddutur.github.io/spark-notes/distribution_of_executors_cores_and_memory_for_spark_application
+
+32. [Spark] How Apache Spark’s Transformations And Action works
+https://medium.com/@aristo_alex/how-apache-sparks-transformations-and-action-works-ceb0d03b00d0
+
+33. [Spark] Introduction to SparkSession
+https://dzone.com/articles/introduction-to-spark-session
+
+34. [Spark] Apache Spark reduceByKey Example
+https://backtobazics.com/big-data/spark/apache-spark-reducebykey-example/
+
+35. [Spark] Spark Accumulators, What Are They Good For?
+http://imranrashid.com/posts/Spark-Accumulators/
+
+36. [Spark] When are accumulators truly reliable?
+https://stackoverflow.com/questions/29494452/when-are-accumulators-truly-reliable
+
+37. [Spark] Aggregating Results with Spark Accumulators
+https://sparkour.urizone.net/recipes/aggregating-accumulators/
+
+
+
