@@ -113,3 +113,6 @@ https://sparkour.urizone.net/recipes/aggregating-accumulators/
 38. [Spark] Tuning Spark
 https://spark.apache.org/docs/latest/tuning.html
 
+39. [Spark] Understanding Resource Allocation configurations for a Spark application
+http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/
+
