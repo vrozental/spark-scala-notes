@@ -110,5 +110,6 @@ https://stackoverflow.com/questions/29494452/when-are-accumulators-truly-reliabl
 37. [Spark] Aggregating Results with Spark Accumulators
 https://sparkour.urizone.net/recipes/aggregating-accumulators/
 
-
+38. [Spark] Tuning Spark
+https://spark.apache.org/docs/latest/tuning.html
 
