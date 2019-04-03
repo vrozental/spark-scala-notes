@@ -38,7 +38,7 @@ https://github.com/jaceklaskowski/mastering-apache-spark-book
 http://spark.apache.org/docs/latest/rdd-programming-guide.html
 
 14. Spark Standalone Mode
-https://spark.apache.org/docs/latest/configuration.html
+https://spark.apache.org/docs/latest/spark-standalone.html
 
 15. Spark Corner Cases
 http://codingjunkie.net/spark-corner-cases/
