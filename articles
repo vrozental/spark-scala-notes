@@ -1,5 +1,5 @@
-1. 
-
+1. You Won’t Believe How Spark Shuffling Will Probably Bite You (Also Windowing)
+https://medium.com/@foundev/you-won-t-believe-how-spark-shuffling-will-probably-bite-you-also-windowing-e39d07bf754e
 
 2. (Why) do we need to call cache or persist on a RDD
 https://stackoverflow.com/questions/28981359/why-do-we-need-to-call-cache-or-persist-on-a-rdd
