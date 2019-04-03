@@ -1,5 +1,5 @@
-1. Deep Understanding of Spark Memory Management Model
-https://www.tutorialdocs.com/article/spark-memory-management.html
+1. 
+
 
 2. (Why) do we need to call cache or persist on a RDD
 https://stackoverflow.com/questions/28981359/why-do-we-need-to-call-cache-or-persist-on-a-rdd
