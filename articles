@@ -121,3 +121,16 @@ https://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1
 
 41. [Spark] How-to: Tune Your Apache Spark Jobs (Part 2)
 https://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/
+
+42. [Spark] How To Use Spark Transformations Efficiently For MapReduce-Like Jobs
+http://technology.finra.org/code/using-spark-transformations-for-mpreduce-jobs.html
+
+43. [Scala] Difference between MutableList and ListBuffer
+https://stackoverflow.com/questions/5446744/difference-between-mutablelist-and-listbuffer
+
+44. [Scala] Difference between Array and List in scala
+https://stackoverflow.com/questions/2712877/difference-between-array-and-list-in-scala
+
+45. [Scala] Why you should think twice before using Tuples
+https://pedrorijo.com/blog/tuples-are-evil/
+
