@@ -136,3 +136,8 @@ https://pedrorijo.com/blog/tuples-are-evil/
 
 46. [Spark] What is the difference between spark checkpoint and persist to a disk
 https://stackoverflow.com/questions/35127720/what-is-the-difference-between-spark-checkpoint-and-persist-to-a-disk
+
+47. [Spark] Working with Apache Spark: Or, How I Learned to Stop Worrying and Love the Shuffle
+https://blog.cloudera.com/blog/2015/05/working-with-apache-spark-or-how-i-learned-to-stop-worrying-and-love-the-shuffle/
+
+
