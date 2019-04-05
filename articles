@@ -134,3 +134,5 @@ https://stackoverflow.com/questions/2712877/difference-between-array-and-list-in
 45. [Scala] Why you should think twice before using Tuples
 https://pedrorijo.com/blog/tuples-are-evil/
 
+46. [Spark] What is the difference between spark checkpoint and persist to a disk
+https://stackoverflow.com/questions/35127720/what-is-the-difference-between-spark-checkpoint-and-persist-to-a-disk
