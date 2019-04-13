@@ -169,3 +169,22 @@ https://spark.apache.org/docs/latest/monitoring.html
 
 57. [Spark] Managing Spark Partitions with Coalesce and Repartition
 https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
+
+58. [Spark] Apache Spark: RDD Partitioning Preservation
+https://medium.com/@corentinanjuna/apache-spark-rdd-partitioning-preservation-2187a93bc33e
+
+59. [Scala] CONCRETE MUTABLE COLLECTION CLASSES
+https://docs.scala-lang.org/overviews/collections/concrete-mutable-collection-classes.html
+https://stackoverflow.com/questions/5446744/difference-between-mutablelist-and-listbuffer
+https://stackoverflow.com/questions/2712877/difference-between-array-and-list-in-scala
+
+60. [Spark] [SPARK-22286] OutOfMemoryError caused by memory leak and large serializer batch size in ExternalAppendOnlyMap
+Nice diagnostic
+https://issues.apache.org/jira/browse/SPARK-22286
+
+61. [Spark] What are workers, executors, cores in Spark Standalone cluster?
+https://stackoverflow.com/questions/32621990/what-are-workers-executors-cores-in-spark-standalone-cluster
+
+62. [Spark] Apache Spark: map vs mapPartitions?
+https://stackoverflow.com/questions/21185092/apache-spark-map-vs-mappartitions
+
