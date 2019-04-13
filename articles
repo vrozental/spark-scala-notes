@@ -154,3 +154,18 @@ https://researchcomputing.princeton.edu/computational-hardware/hadoop/spark-memo
 
 52. [Spark] Memory settings for Spark standalone cluster
 https://mapr.com/support/s/article/Memory-settings-for-Spark-standalone-cluster
+
+53. [Spark] Apache Spark Articles
+https://www.waitingforcode.com/apache-spark
+
+54. [Spark] Spark Out of Memory Error For MapOutputTracker serializeMapStatuses
+https://stackoverflow.com/questions/46508074/spark-out-of-memory-error-for-mapoutputtracker-serializemapstatuses
+
+55. [Java] What is the max. capacity of byte-Array?
+https://stackoverflow.com/questions/6289850/what-is-the-max-capacity-of-byte-array
+
+56. [Spark] Monitoring and Instrumentation
+https://spark.apache.org/docs/latest/monitoring.html
+
+57. [Spark] Managing Spark Partitions with Coalesce and Repartition
+https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
